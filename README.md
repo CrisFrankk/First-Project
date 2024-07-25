@@ -1,2 +1,2 @@
 # First-Project
-Tela
+Minha primeira aplicação web usando o Django
